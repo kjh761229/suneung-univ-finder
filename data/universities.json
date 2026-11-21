@@ -1,0 +1,1126 @@
+{
+  "sample": true,
+  "year": "예시",
+  "universities": [
+    {
+      "id": "snu",
+      "name": "서울대학교",
+      "region": "서울",
+      "type": "국립",
+      "engPreset": "mild",
+      "histPreset": "strict",
+      "departments": [
+        {
+          "name": "경영학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 140,
+            "math": 137,
+            "inq": 137,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "컴퓨터공학과",
+          "track": "science",
+          "cut": {
+            "kor": 132,
+            "math": 142,
+            "inq": 137,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "yonsei",
+      "name": "연세대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "strong",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경제학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 138,
+            "math": 136,
+            "inq": 135,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "전자공학과",
+          "track": "science",
+          "cut": {
+            "kor": 131,
+            "math": 140,
+            "inq": 136,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "korea",
+      "name": "고려대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "미디어커뮤니케이션학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 138,
+            "math": 135,
+            "inq": 135,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "기계공학과",
+          "track": "science",
+          "cut": {
+            "kor": 130,
+            "math": 140,
+            "inq": 136,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "sogang",
+      "name": "서강대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "행정학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 136,
+            "math": 133,
+            "inq": 134,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "화학공학과",
+          "track": "science",
+          "cut": {
+            "kor": 129,
+            "math": 138,
+            "inq": 134,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "skku",
+      "name": "성균관대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "국어국문학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 136,
+            "math": 133,
+            "inq": 134,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "생명과학과",
+          "track": "science",
+          "cut": {
+            "kor": 129,
+            "math": 138,
+            "inq": 134,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "hanyang",
+      "name": "한양대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경영학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 136,
+            "math": 133,
+            "inq": 133,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "컴퓨터공학과",
+          "track": "science",
+          "cut": {
+            "kor": 128,
+            "math": 137,
+            "inq": 134,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "cau",
+      "name": "중앙대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경제학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 134,
+            "math": 132,
+            "inq": 132,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "전자공학과",
+          "track": "science",
+          "cut": {
+            "kor": 127,
+            "math": 136,
+            "inq": 133,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "khu",
+      "name": "경희대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "미디어커뮤니케이션학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 134,
+            "math": 131,
+            "inq": 132,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "기계공학과",
+          "track": "science",
+          "cut": {
+            "kor": 127,
+            "math": 136,
+            "inq": 133,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "hufs",
+      "name": "한국외국어대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "strong",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "행정학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 133,
+            "math": 131,
+            "inq": 131,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "화학공학과",
+          "track": "science",
+          "cut": {
+            "kor": 126,
+            "math": 135,
+            "inq": 132,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "uos",
+      "name": "서울시립대학교",
+      "region": "서울",
+      "type": "공립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "국어국문학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 133,
+            "math": 131,
+            "inq": 131,
+            "eng": 1,
+            "hist": 1
+          }
+        },
+        {
+          "name": "생명과학과",
+          "track": "science",
+          "cut": {
+            "kor": 126,
+            "math": 135,
+            "inq": 132,
+            "eng": 1,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "konkuk",
+      "name": "건국대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경영학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 133,
+            "math": 130,
+            "inq": 131,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "컴퓨터공학과",
+          "track": "science",
+          "cut": {
+            "kor": 125,
+            "math": 134,
+            "inq": 132,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "dongguk",
+      "name": "동국대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경제학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 133,
+            "math": 130,
+            "inq": 131,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "전자공학과",
+          "track": "science",
+          "cut": {
+            "kor": 125,
+            "math": 134,
+            "inq": 132,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "hongik",
+      "name": "홍익대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "미디어커뮤니케이션학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 132,
+            "math": 130,
+            "inq": 130,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "기계공학과",
+          "track": "science",
+          "cut": {
+            "kor": 125,
+            "math": 134,
+            "inq": 131,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "ajou",
+      "name": "아주대학교",
+      "region": "경기",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "행정학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 131,
+            "math": 128,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "화학공학과",
+          "track": "science",
+          "cut": {
+            "kor": 124,
+            "math": 132,
+            "inq": 130,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "inha",
+      "name": "인하대학교",
+      "region": "인천",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "국어국문학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 131,
+            "math": 128,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "생명과학과",
+          "track": "science",
+          "cut": {
+            "kor": 124,
+            "math": 132,
+            "inq": 130,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "pusan",
+      "name": "부산대학교",
+      "region": "부산",
+      "type": "국립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경영학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 131,
+            "math": 128,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "컴퓨터공학과",
+          "track": "science",
+          "cut": {
+            "kor": 124,
+            "math": 132,
+            "inq": 130,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "kookmin",
+      "name": "국민대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경제학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 130,
+            "math": 128,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "전자공학과",
+          "track": "science",
+          "cut": {
+            "kor": 123,
+            "math": 132,
+            "inq": 130,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "knu",
+      "name": "경북대학교",
+      "region": "대구",
+      "type": "국립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "미디어커뮤니케이션학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 130,
+            "math": 128,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "기계공학과",
+          "track": "science",
+          "cut": {
+            "kor": 123,
+            "math": 132,
+            "inq": 130,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "ssu",
+      "name": "숭실대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "행정학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 130,
+            "math": 127,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "화학공학과",
+          "track": "science",
+          "cut": {
+            "kor": 123,
+            "math": 131,
+            "inq": 130,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "sejong",
+      "name": "세종대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "국어국문학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 130,
+            "math": 127,
+            "inq": 128,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "생명과학과",
+          "track": "science",
+          "cut": {
+            "kor": 122,
+            "math": 131,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "kw",
+      "name": "광운대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경영학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 130,
+            "math": 127,
+            "inq": 128,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "컴퓨터공학과",
+          "track": "science",
+          "cut": {
+            "kor": 122,
+            "math": 131,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "dankook",
+      "name": "단국대학교",
+      "region": "경기",
+      "type": "사립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경제학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 129,
+            "math": 126,
+            "inq": 128,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "전자공학과",
+          "track": "science",
+          "cut": {
+            "kor": 122,
+            "math": 130,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "catholic",
+      "name": "가톨릭대학교",
+      "region": "경기",
+      "type": "사립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "미디어커뮤니케이션학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 129,
+            "math": 126,
+            "inq": 128,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "기계공학과",
+          "track": "science",
+          "cut": {
+            "kor": 122,
+            "math": 130,
+            "inq": 129,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "mju",
+      "name": "명지대학교",
+      "region": "서울",
+      "type": "사립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "행정학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 128,
+            "math": 126,
+            "inq": 127,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "화학공학과",
+          "track": "science",
+          "cut": {
+            "kor": 121,
+            "math": 130,
+            "inq": 128,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "jnu",
+      "name": "전남대학교",
+      "region": "광주",
+      "type": "국립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "국어국문학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 128,
+            "math": 126,
+            "inq": 127,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "생명과학과",
+          "track": "science",
+          "cut": {
+            "kor": 121,
+            "math": 130,
+            "inq": 128,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "cnu",
+      "name": "충남대학교",
+      "region": "대전",
+      "type": "국립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경영학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 128,
+            "math": 126,
+            "inq": 127,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "컴퓨터공학과",
+          "track": "science",
+          "cut": {
+            "kor": 121,
+            "math": 130,
+            "inq": 128,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "jbnu",
+      "name": "전북대학교",
+      "region": "전북",
+      "type": "국립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경제학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 127,
+            "math": 125,
+            "inq": 126,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "전자공학과",
+          "track": "science",
+          "cut": {
+            "kor": 120,
+            "math": 129,
+            "inq": 127,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "cbnu",
+      "name": "충북대학교",
+      "region": "충북",
+      "type": "국립",
+      "engPreset": "normal",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "미디어커뮤니케이션학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 127,
+            "math": 124,
+            "inq": 126,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "기계공학과",
+          "track": "science",
+          "cut": {
+            "kor": 120,
+            "math": 128,
+            "inq": 127,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "kangwon",
+      "name": "강원대학교",
+      "region": "강원",
+      "type": "국립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "행정학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 126,
+            "math": 123,
+            "inq": 125,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "화학공학과",
+          "track": "science",
+          "cut": {
+            "kor": 119,
+            "math": 127,
+            "inq": 126,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "pknu",
+      "name": "부경대학교",
+      "region": "부산",
+      "type": "국립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "국어국문학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 126,
+            "math": 123,
+            "inq": 125,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "생명과학과",
+          "track": "science",
+          "cut": {
+            "kor": 119,
+            "math": 127,
+            "inq": 126,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "gnu",
+      "name": "경상국립대학교",
+      "region": "경남",
+      "type": "국립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경영학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 125,
+            "math": 122,
+            "inq": 125,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "컴퓨터공학과",
+          "track": "science",
+          "cut": {
+            "kor": 118,
+            "math": 126,
+            "inq": 126,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "jejunu",
+      "name": "제주대학교",
+      "region": "제주",
+      "type": "국립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "경제학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 124,
+            "math": 121,
+            "inq": 123,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "전자공학과",
+          "track": "science",
+          "cut": {
+            "kor": 116,
+            "math": 124,
+            "inq": 124,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "kmu",
+      "name": "계명대학교",
+      "region": "대구",
+      "type": "사립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "미디어커뮤니케이션학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 123,
+            "math": 120,
+            "inq": 123,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "기계공학과",
+          "track": "science",
+          "cut": {
+            "kor": 116,
+            "math": 124,
+            "inq": 124,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "hallym",
+      "name": "한림대학교",
+      "region": "강원",
+      "type": "사립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "행정학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 123,
+            "math": 120,
+            "inq": 123,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "화학공학과",
+          "track": "science",
+          "cut": {
+            "kor": 116,
+            "math": 124,
+            "inq": 124,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "sch",
+      "name": "순천향대학교",
+      "region": "충남",
+      "type": "사립",
+      "engPreset": "mild",
+      "histPreset": "normal",
+      "departments": [
+        {
+          "name": "국어국문학과",
+          "track": "humanities",
+          "cut": {
+            "kor": 122,
+            "math": 119,
+            "inq": 122,
+            "eng": 2,
+            "hist": 1
+          }
+        },
+        {
+          "name": "생명과학과",
+          "track": "science",
+          "cut": {
+            "kor": 115,
+            "math": 123,
+            "inq": 123,
+            "eng": 2,
+            "hist": 1
+          }
+        }
+      ]
+    }
+  ]
+}
